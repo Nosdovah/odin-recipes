@@ -2,3 +2,18 @@
     font-family: 'Times New Roman', 'DejaVu Sans' , sans-serif;
     text-align: center;
 }
+
+div.WebBodyTitle {
+    background-image: url(recipes/background_image.png);
+}
+
+div.WebBodyTitle .Title{
+    color:White;
+    font-size: 120px;;
+}
+
+div.WebBodyTitle .ParagraphTitle { 
+    color : white;
+    font-size : 30px;
+}
+
